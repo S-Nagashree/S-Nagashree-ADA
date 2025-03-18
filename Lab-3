@@ -122,6 +122,17 @@ Time taken: 0.000000 Milli-seconds
 
 Process returned 0 (0x0)   execution time : 32.360 s
 Press any key to continue.
+Choose an option:
+1. Small length (User input)
+2. Big length (Random numbers)
+3. Exit
+Enter your choice: 2
+Enter the number of elements: 100000
+Sorting completed.
+Time taken: 11.000000 Milli-seconds
+
+Process returned 0 (0x0)   execution time : 5.876 s
+Press any key to continue.
 
 
 Quick Sort:
